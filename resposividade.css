@@ -1,0 +1,259 @@
+@media screen and (max-width: 1264px) {
+  .circulo {
+    top: -168px;
+
+    clip-path: circle(600px at right 997px);
+  }
+}
+
+@media screen and (max-width: 1210px) and (min-width: 1037px) {
+  h2 {
+    font-size: 54px;
+  }
+
+  .copo_starbuks {
+    width: 316px;
+  }
+  .circulo {
+    clip-path: circle(511px at right 877px);
+    top: -189px;
+  }
+}
+@media screen and (max-width: 1138px) {
+  p {
+    width: 368px;
+  }
+  .circulo {
+    top: -168px;
+    clip-path: circle(600px at right 984px);
+  }
+}
+@media screen and (max-width: 1036px) {
+  .circulo {
+    top: -168px;
+    clip-path: circle(549px at right 989px);
+  }
+  .copo_starbuks {
+    width: 273px;
+  }
+  h2 {
+    font-size: 58px;
+  }
+}
+@media screen and (max-width: 1017px) {
+  h2 {
+    font-size: 57px;
+  }
+}
+@media screen and (max-width: 1003px) {
+  h2 {
+    font-size: 48px;
+  }
+}
+@media screen and (max-width: 964px) {
+  .container {
+    display: block;
+  }
+  .circulo {
+    clip-path: circle(462px at right 959px);
+    top: -237px;
+  }
+  p {
+    width: 446px;
+    font-size: 18px;
+  }
+  .img_copo {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+
+    align-items: center;
+  }
+  .copo_starbuks {
+    width: 258px;
+    margin-top: -473px;
+  }
+}
+
+@media screen and (max-width: 871px) {
+  .circulo {
+    clip-path: circle(442px at right 946px);
+    top: -182px;
+  }
+  p {
+    width: 405px;
+  }
+  .copo_starbuks {
+    width: 207px;
+    margin-top: -486px;
+  }
+}
+@media screen and (max-width: 830px) {
+  .circulo {
+    clip-path: circle(466px at right 1025px);
+    top: -162px;
+  }
+  p {
+    width: 427px;
+  }
+  .img_copo {
+    width: 100%;
+    margin-top: 320px;
+    display: flex;
+    align-items: center;
+  }
+  .copo_starbuks {
+    width: 204px;
+    margin-top: -490px;
+  }
+}
+
+@media screen and (max-width: 798px) {
+  .informaçoes {
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .circulo {
+    clip-path: circle(454px at right 990px);
+    top: -35px;
+    z-index: -1;
+  }
+  .img_copo {
+    width: 100%;
+    margin-top: 320px;
+    display: flex;
+    align-items: center;
+  }
+  .copo_starbuks {
+    width: 203px;
+    margin-top: -333px;
+  }
+}
+@media screen and (max-width: 793px) {
+  .circulo {
+    clip-path: circle(454px at right 990px);
+    top: 25px;
+  }
+}
+@media screen and (max-width: 784px) {
+    .circulo {
+      clip-path: circle(454px at right 990px);
+      top: -46px;
+    }
+  }
+
+@media screen and (max-width: 778px) {
+  .circulo {
+    clip-path: circle(559px at right 1096px);
+    top: -43px;
+    z-index: -1;
+  }
+}
+@media screen and (max-width: 768px) {
+  .circulo {
+    clip-path: circle(599px at right 1183px);
+    top: -59px;
+    z-index: -1;
+  }
+}
+@media screen and (max-width: 684px) {
+  .circulo {
+    clip-path: circle(599px at right 1183px);
+    top: 20px;
+    z-index: -1;
+  }
+}
+@media screen and (max-width: 634px) {
+  header {
+    display: flex;
+    justify-content: center;
+  }
+  .circulo {
+    clip-path: circle(393px at right 950px);
+    top: 43px;
+    z-index: -1;
+  }
+}
+@media screen and (max-width: 606px) {
+  .circulo {
+    clip-path: circle(355px at right 946px);
+    top: 117px;
+    z-index: -1;
+  }
+  .copo_starbuks {
+    width: 186px;
+    margin-top: -302px;
+  }
+}
+@media screen and (max-width: 572px) {
+  .circulo {
+    clip-path: circle(411px at right 987px);
+    top: 53px;
+    z-index: -1;
+  }
+  .copo_starbuks {
+    width: 178px;
+  }
+}
+@media screen and (max-width: 437px) {
+  .circulo {
+    clip-path: circle(446px at right 1049px);
+    top: 33px;
+  }
+  p {
+    width: 381px;
+  }
+  .copo_starbuks {
+    width: 170px;
+  }
+}
+@media screen and (max-width: 430px) {
+  .circulo {
+    clip-path: circle(501px at right 1118px);
+    top: 23px;
+  }
+  p {
+    width: 381px;
+  }
+  .copo_starbuks {
+    width: 170px;
+  }
+}
+@media screen and (max-width: 415px) {
+  .circulo {
+    clip-path: circle(448px at right 1049px);
+    top: 33px;
+  }
+  .copo_starbuks {
+    margin-top: -278px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .circulo {
+    clip-path: circle(389px at right 988px);
+    top: 42px;
+  }
+  .copo_starbuks {
+    width: 170px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .circulo {
+    clip-path: circle(418px at right 1020px);
+    top: 47px;
+  }
+  .img_copo {
+    width: 100%;
+    margin-top: 320px;
+    margin-left: -15px;
+    display: flex;
+    align-items: center;
+  }
+}
